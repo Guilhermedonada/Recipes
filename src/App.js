@@ -4,8 +4,8 @@ import './App.css';
 
 const App = () => {
 
-  const APP_ID = '6cb77191'
-  const APP_KEY = '04a367a884dc2984fde2fc561dfb0c67'
+  const APP_ID = 'id'
+  const APP_KEY = 'key'
 
   const [recipes, setRecipes] = useState([])
   const [search, setSearch] = useState('')
